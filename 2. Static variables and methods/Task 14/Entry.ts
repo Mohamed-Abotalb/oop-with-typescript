@@ -1,3 +1,8 @@
+/*
+ * Task 14:
+ * What is the result of the following program:
+ */
+
 class MyClass {
   public static x: number = 10;
 }
