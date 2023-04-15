@@ -1,5 +1,5 @@
 /*
- * Task 17:
+ * Task 18:
  * Create an ArrayCalculator class with the following information:
  *   ArrayCalculator is a class without attributes.
  *   maxOfArray(arr: int[]) and maxOfArray(arr: double[]) are two overridden static methods,
