@@ -3,8 +3,11 @@
  * Create a Student class with the following information:
  *    name and gender are two private attributes of Student class.
  *    Student() is the no-arg constructor which is used for initializing 2 values: name = "Unknown", gender = 'u'.
- *    Student(name: String) is the parameter constructor which is used for initializing values to 2 attributes name and gender (this.name = name; gender = 'u').
- *    Student(gender: char) is the parameter constructor which is used for initializing values to 2 attributes gender and name (this.gender = gender, name = "Unknown").Student(gender: char) is the parameter constructor which is used for initializing values to 2 attributes gender and name (this.gender = gender, name = "Unknown").
+ *    Student(name: String) is the parameter constructor which is used for initializing values
+ *    to 2 attributes name and gender (this.name = name; gender = 'u').
+ *    Student(gender: char) is the parameter constructor which is used for initializing values
+ *    to 2 attributes gender and name (this.gender = gender, name = "Unknown").Student(gender: char)
+ *    is the parameter constructor which is used for initializing values to 2 attributes gender and name (this.gender = gender, name = "Unknown").
  *    Student(name: String, gender: char) is the parameter constructor which is used for initializing values to 2 attributes name and gender.
  *    display() method is used for displaying information of an object on the screen.
  */
