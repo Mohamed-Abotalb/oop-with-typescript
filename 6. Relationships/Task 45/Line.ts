@@ -14,6 +14,7 @@ export class Line {
   private begin: Point = new Point(0, 0);
   private end: Point = new Point(0, 0);
 
+  // Constructor overloading
   public constructor(begin: Point, end: Point);
   public constructor(x1: number, y1: number, x2: number, y2: number);
   public constructor(...args: any[]) {
