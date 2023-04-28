@@ -1,4 +1,5 @@
 /*
+ * Task 45:
  * Create Point and Line classes as in the following class diagram:
  *
  * Point class:
